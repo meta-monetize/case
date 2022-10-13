@@ -1,0 +1,194 @@
+﻿* {
+    margin: 0px;
+    padding: 0px
+
+}
+
+#krrasmiro20 {
+
+    width: auto;
+    overflow: hidden;
+    background-color: #4267b2;
+    padding: 10px;
+    color: white;
+    display: block;
+}
+#krrasmiro20:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+#krrasmiro20 section > #fb-icon {
+    margin-left: 12%;
+	
+}
+#krrasmiro20 section > img {
+    float: left;
+    margin-left: 10px;
+}
+
+
+.right {
+    padding-right: 2%;
+    width: 42px;
+    text-align: center;
+    float: right;
+    display: inline-block;
+  
+    font-weight: bold;
+font-size: 12px;
+margin: +5.2px auto 4px;
+width: 371px;
+display: inline-block;
+overflow: hidden;
+text-overflow: ellipsis;
+font-family: Helvetica, Arial, sans-serif;
+
+}
+
+.mamasitos230 {
+
+font: 1em sans-serif;
+padding: 84px;
+background-color: #e9ebee;
+}
+
+form{
+width: 599px;
+display:block;
+
+margin: 0 auto;
+position: relative;
+border: 1px solid #dddfe2;
+border-radius: 3px;
+padding:10px;
+max-width: 900px;
+margin-left: auto;
+margin-right: auto;
+background-color: #ffffff;
+
+}
+
+hr {
+color: #dddfe2;
+border: 0.002em solid #dddfe2;
+
+}
+
+form #mulomo202{
+outline: 0px solid rgb(192, 192, 192);
+box-shadow: none;
+padding-bottom: 6px;
+margin: 4px 9px 4px 0;
+float: left;
+font-size: 12.7px;
+text-align: left;
+font-family: Helvetica, Arial, sans-serif;
+}
+
+input[type=text] {
+-webkit-appearance: none;
+border-radius: 0;
+border: 1px solid #cecfcf;
+float: left;
+padding: 2.9px 4.5px;
+margin: 1px 0;
+box-sizing: border-box;
+}
+
+
+input[type=submit] {
+float: right;
+text-align: center;
+box-shadow:inset 0px 1px 0px 0px #4268b2;
+background:linear-gradient(to bottom, #4268b2 5%, #4268b2 100%);
+background-color:#4268b2;
+border:1px solid #4268b2;
+display:inline-block;
+cursor:pointer;
+color:#ffffff;
+font-family: Helvetica, Arial, sans-serif;
+font-size:12px;
+font-weight:bold;
+margin-top: -4px;
+padding:7px 11.5px;
+border-color: #4267b2;
+border-radius: 3px;
+text-decoration:none;
+}
+
+
+
+form #kakaq22{
+float: left;
+font-size: 14px;
+text-align:left;
+font-family: Helvetica, Arial, sans-serif;
+}
+
+form #makroma2502{
+color: #385898;
+cursor: pointer;
+text-decoration: none;
+float: left;
+font-size: 12px;
+text-align:left;
+font-family: Helvetica, Arial, sans-serif;
+}
+
+.magrama111 {
+    margin-left: 403px;
+    text-align: center;
+    padding-right: 354.5px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    white-space: nowrap;
+    font-size: 12.1px;
+    color: #385898;
+    margin: 0 auto;
+}
+
+.krroqqq220 {
+    width: 1004px;
+    white-space: nowrap;
+    margin: 0 auto;
+      margin-top: -18px;
+}
+
+.maamass222 {
+    margin-left: 433px;
+    text-align: center;
+    padding-right: 142px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    white-space: nowrap;
+    font-size: 12.1px;
+    color: #385898;
+    margin: 0 auto;
+}
+
+.mikosti3555 {
+    margin-left: 433px;
+    text-align: center;
+    padding-right: 166px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    white-space: nowrap;
+    font-size: 12.1px;
+    color: #385898;
+    margin: 0 auto;
+}
+
+.qibiti {
+    margin-left: 433px;
+    text-align: center;
+    padding-right: 913.5px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    white-space: nowrap;
+    font-size: 11.3px;
+    color: #90949c;
+    margin: 0 auto;
+}
